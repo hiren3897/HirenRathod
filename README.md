@@ -135,3 +135,17 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
+<details open> 
+  <summary><h2>🏆 My GitHub Achievements</h2></summary>
+
+  <!-- GitHub Achievements Images -->
+  <p align="center">
+    <a href="https://github.com/hiren3897?tab=achievements&achievement=pull-shark">
+      <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark Achievement" />
+    </a>
+    <a href="https://github.com/hiren3897?tab=achievements&achievement=arctic-code-vault-contributor">
+      <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" alt="Arctic Code Vault Contributor Achievement" />
+    </a>
+  </p>
+</details>
+
